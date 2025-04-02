@@ -1,7 +1,3 @@
-Vou organizar sua explicação de forma clara e estruturada para o README do GitHub, usando Markdown para formatar o texto de maneira profissional e visualmente agradável. O objetivo é tornar o conteúdo fácil de ler, com seções bem definidas, listas, tabelas e formatação adequada. Aqui está a versão revisada e organizada:
-
-
-
 Explicação do Projeto: Algoritmo de Entregas
 
 Este projeto implementa dois algoritmos para resolver um problema de entregas, onde o objetivo é maximizar o lucro ao realizar entregas em diferentes destinos, respeitando restrições de tempo. Abaixo, detalhamos as duas versões do algoritmo: uma abordagem básica (Versão 1) e uma abordagem otimizada com IA (Versão 2), incluindo explicações, resultados, gráficos e comparações.
